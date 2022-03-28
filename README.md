@@ -1,8 +1,6 @@
-https://www.codingnepalweb.com/text-to-speech-converter-html-javascript/
-## Tugas Teknomolgi Multimedia
+# Tugas Teknologi Multimedia - Text To Speech
 
-# Text To Speech Converter in HTML CSS & JavaScript
-## Kelompok 2
+## Kelompok 3 - Kelas A
 - Haffif Rasya Fauzi &emsp;&emsp;&emsp;&emsp;&emsp; 5027201002
 - Fairuz Azka Maulana &emsp;&emsp;&emsp;&emsp;5027201017
 - Rama Muhammad Murshal &emsp; 5027201041
